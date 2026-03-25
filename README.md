@@ -10,7 +10,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryanysoni)
 [![Website](https://img.shields.io/badge/aryansoni.in-FF6B35?style=for-the-badge&logo=safari&logoColor=white)](https://aryansoni.in)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryan.y.soni@gmail.com)
-[![Location](https://img.shields.io/badge/Ahmedabad%2C_India-2EA44F?style=for-the-badge&logo=googlemaps&logoColor=white)](https://aryansoni.in)
 
 </div>
 
@@ -45,7 +44,6 @@ Every repo here is a real product I scoped, built, and shipped using AI-native t
 <div align="center">
 
 **AI & Systems**
-
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white)
 ![LangChain](https://img.shields.io/badge/RAG%20Pipelines-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
@@ -53,7 +51,6 @@ Every repo here is a real product I scoped, built, and shipped using AI-native t
 ![Make](https://img.shields.io/badge/Make.com-6D00CC?style=flat-square&logo=make&logoColor=white)
 
 **Builder Stack**
-
 ![Lovable](https://img.shields.io/badge/Lovable-FF4F8B?style=flat-square&logo=heart&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -61,7 +58,6 @@ Every repo here is a real product I scoped, built, and shipped using AI-native t
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 
 **Product & Strategy**
-
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
@@ -78,7 +74,7 @@ I'm open to conversations about AI products, GTM strategy, rapid MVP development
 
 <div align="center">
 
-**aryan.y.soni@gmail.com &nbsp;·&nbsp; [aryansoni.in](https://aryansoni.in) &nbsp;·&nbsp; [linkedin.com/in/aryanysoni](https://linkedin.com/in/aryanysoni)**
+**[aryansoni.in](https://aryansoni.in) &nbsp;·&nbsp; [linkedin.com/in/aryanysoni](https://linkedin.com/in/aryanysoni)**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" width="100%" />
 
