@@ -1,58 +1,85 @@
-# Hi, I'm Aryan Soni 👋
+<div align="center">
 
-### AI Product Manager · Builder · GTM Strategist
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=180&section=header&text=Aryan%20Soni&fontSize=52&fontColor=58a6ff&fontAlignY=38&desc=AI%20Product%20Manager%20%C2%B7%20Builder%20%C2%B7%20GTM%20Strategist&descAlignY=58&descSize=18&descColor=8b949e" width="100%" />
 
-I'm an AI Product Manager with 5+ years of experience helping companies turn AI from a buzzword into real products, real automation, and real revenue.
+<!-- TYPING ANIMATION -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Product+Manager+%7C+5%2B+years+shipping+AI+products;0%E2%86%921+builder+using+Lovable+%2B+Supabase+%2B+TypeScript;LLMs+%C2%B7+RAG+Pipelines+%C2%B7+Agentic+Workflows;Turning+AI+from+buzzword+into+real+revenue)](https://git.io/typing-svg)
 
-I sit at the intersection of **product strategy**, **AI implementation**, and **rapid experimentation** — identifying high-impact problems, designing AI-powered solutions, and shipping MVPs fast enough to validate ideas before companies waste months or millions.
+<!-- CONNECT BADGES -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryanysoni)
+[![Website](https://img.shields.io/badge/aryansoni.in-FF6B35?style=for-the-badge&logo=safari&logoColor=white)](https://aryansoni.in)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryan.y.soni@gmail.com)
+[![Location](https://img.shields.io/badge/Ahmedabad%2C_India-2EA44F?style=for-the-badge&logo=googlemaps&logoColor=white)](https://aryansoni.in)
 
-I prototype with AI-native tools, write production-grade prompts, and architect systems myself — so when I hand off a PRD to engineers, it's grounded in what's actually buildable.
-
----
-
-## 🚀 Live Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [**MovieMatch**](https://moviematch.in) | AI movie matchmaking — find films to watch together based on mutual taste | TypeScript · Supabase |
-| [**Subdue**](https://subdue.in) | Smart subscription tracker — manage all your subscriptions in one place | TypeScript · Supabase |
-| [**Drone Stash Manager**](https://drone-stash-manager.vercel.app) | Full-stack drone inventory tool — 3,000+ components across a drone fleet | TypeScript · Supabase |
+</div>
 
 ---
 
-## 🧠 What I Work With
+## 🧭 What This GitHub Is
+
+This is **proof of work** — not a portfolio page.
+
+Every repo here is a real product I scoped, built, and shipped using AI-native tools. No engineers. No budget. Just Lovable, Supabase, TypeScript, and a clear problem to solve.
+
+> *I prototype with AI-native tools, write production-grade prompts, and architect systems myself — so when I hand off a PRD, it's grounded in what's actually buildable.*
+>
+> ---
+>
+> ## 🚀 Shipped Products
+>
+> <div align="center">
+
+| | Product | What It Does | Live |
+|---|---|---|---|
+| 🎬 | **MovieMatch** | AI movie matchmaking — find films to watch together based on mutual taste | [moviematch.in](https://moviematch.in) |
+| 💳 | **Subdue** | Smart subscription tracker — manage all your subscriptions in one place | [subdue.in](https://subdue.in) |
+| 🚁 | **Drone Stash Manager** | Inventory tool for 3,000+ drone components — built at zero dev cost | [drone-stash-manager.vercel.app](https://drone-stash-manager.vercel.app) |
+
+</div>
+
+---
+
+## 🧠 Stack
+
+<div align="center">
 
 **AI & Systems**
-`OpenAI GPT API` `Claude` `Gemini` `RAG Pipelines` `Agentic Workflows` `Prompt Engineering` `LLM Systems` `Multi-Agent Systems`
 
-**Product & Strategy**
-`0-to-1 Development` `PRDs` `GTM Strategy` `User Research` `A/B Testing` `Roadmapping` `Agile/Scrum`
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/RAG%20Pipelines-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make.com-6D00CC?style=flat-square&logo=make&logoColor=white)
 
 **Builder Stack**
-`Lovable` `Supabase` `Cursor` `n8n` `Make.com` `Figma` `Vercel` `Python` `SQL`
+
+![Lovable](https://img.shields.io/badge/Lovable-FF4F8B?style=flat-square&logo=heart&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+
+**Product & Strategy**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</div>
 
 ---
 
-## 💼 Experience Highlights
+## 📬 Let's Talk
 
-- **AI Product Manager @ Abhyuday Bharat Group** — Leading 0-to-1 Smart AgriTech SaaS platform (10-person team), architected $5M AI drone surveillance system for a Middle East government client, built full-stack drone inventory tool at zero dev cost using AI-native development
-- - **AI Automation Consultant @ Finsweet** — Architected agentic automation workflow reducing project oversight effort by ~90%
-  - - **Product Manager, AI @ AskGalore** — Drove $400K+ in closed AI revenue, led multi-modal AI chatbot development across 3 verticals
-    - - **AI Consultant @ Electronic Transaction Consultants** — Reduced document generation time by 95% using LLM-powered pipeline for a company processing 2B+ annual transactions
-     
-      - ---
+I'm open to conversations about AI products, GTM strategy, rapid MVP development, and cross-border market entry.
 
-      ## 🎓 Education
+<div align="center">
 
-      **MS, Information Technology & Management** (Digital Product Management) — UT Dallas
-      **BE, Information & Communication Technology** — Gujarat Technological University
+**aryan.y.soni@gmail.com &nbsp;·&nbsp; [aryansoni.in](https://aryansoni.in) &nbsp;·&nbsp; [linkedin.com/in/aryanysoni](https://linkedin.com/in/aryanysoni)**
 
-      ---
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" width="100%" />
 
-      ## 📬 Let's Connect
-
-      [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryanysoni)
-      [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)](https://aryansoni.in)
-      [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aryan.y.soni@gmail.com)
-
-      > *"AI has changed who gets to build. Small teams can now move at the speed that only large companies could previously afford."*
+</div>
